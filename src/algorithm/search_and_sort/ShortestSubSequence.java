@@ -8,5 +8,32 @@ package algorithm.search_and_sort;
 
 public class ShortestSubSequence {
 
+    public static void main(String[] args) {
+        int[] arr = {1,4,6,5,9,10};
+        int[] arr1 = {1,2,6,5,8,9};
+        ShortestSubSequence sequence = new ShortestSubSequence();
+        System.out.println(sequence.shortestSubsequence(arr1, arr1.length));
+    }
 
+    public int shortestSubsequence(int[] arr, int n) {
+        int min = arr[n-1], max = arr[0];
+        int right = 0, left = 0;
+        for (int i = 0; i < n; i++) {
+            if (arr[i] > max) {
+                max = arr[i];
+            } else if (arr[i] < max) {
+                right = i;
+            }
+        }
+
+        for (int i = n - 1; i >= 0; i--) {
+            if (arr[i] < min) {
+                min = arr[i];
+            } else if (arr[i] > min) {
+                left = i;
+            }
+        }
+
+        return right - left == 0 ? 0 : right - left + 1;
+    }
 }
