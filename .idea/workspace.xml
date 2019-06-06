@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c55de79-6975-4857-8b37-1ebf6d3475b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/search_and_sort/MaxGapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/strings/ChkIndenticalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/strings/ChkParenthesisDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/strings/ChkRotationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/strings/ChkTransFormDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/strings/FindSmallestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/strings/LongestSubStringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/strings/ReverseSentenceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/strings/TranslationDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyPractice/algorithm/search_and_sort/MetricSortDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyPractice/algorithm/search_and_sort/MetricSortDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/search_and_sort/ShortestSubSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/search_and_sort/ShortestSubSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyPractice/algorithm/search_and_sort/MaxGapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyPractice/algorithm/search_and_sort/MaxGapDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyPractice/algorithm/strings/ReplaceBlank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyPractice/algorithm/strings/ReplaceBlank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyPractice/algorithm/tree/SubTreeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyPractice/algorithm/tree/SubTreeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/strings/ReplaceBlank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/strings/ReplaceBlank.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,46 +30,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/search_and_sort/MergeABDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/strings/ChkParenthesisDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
-              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/search_and_sort/SortThreeColorDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/search_and_sort/MetricSortDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/search_and_sort/ShortestSubSequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+            <state relative-caret-position="792">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/search_and_sort/MaxGapDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/strings/LongestSubStringDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+            <state relative-caret-position="674">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -99,12 +81,24 @@
         <option value="$PROJECT_DIR$/src/algorithm/search_and_sort/MetricSortDemo.java" />
         <option value="$PROJECT_DIR$/src/algorithm/search_and_sort/ShortestSubSequence.java" />
         <option value="$PROJECT_DIR$/src/algorithm/search_and_sort/MaxGapDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/strings/ChkIndenticalDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/strings/ChkTransFormDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/strings/chkRotationDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/strings/ChkRotationDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/strings/ReverseSentenceDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/strings/TranslationDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/strings/FindSmallestDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/strings/ReplaceBlank.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/strings/chkParenthesisDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/strings/ChkParenthesisDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/tree/SubTreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/strings/LongestSubStringDemo.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="1422" />
+    <option name="width" value="1571" />
     <option name="height" value="1447" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -115,7 +109,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,7 +140,14 @@
               <item name="DailyPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="search_and_sort" type="462c0819:PsiDirectoryNode" />
+              <item name="strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DailyPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DailyPractice" type="b2602c69:ProjectViewProjectNode" />
@@ -158,7 +159,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,13 +191,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxGapDemo">
-    <configuration name="MaxGapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.search_and_sort.MaxGapDemo" />
+  <component name="RunManager" selected="Application.LongestSubStringDemo">
+    <configuration name="ChkParenthesisDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.strings.ChkParenthesisDemo" />
       <module name="DailyPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.search_and_sort.*" />
+          <option name="PATTERN" value="algorithm.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeABDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.search_and_sort.MergeABDemo" />
+    <configuration name="LongestSubStringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.strings.LongestSubStringDemo" />
       <module name="DailyPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.search_and_sort.*" />
+          <option name="PATTERN" value="algorithm.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,12 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MetricSortDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.search_and_sort.MetricSortDemo" />
+    <configuration name="ReplaceBlank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.strings.ReplaceBlank" />
       <module name="DailyPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.search_and_sort.*" />
+          <option name="PATTERN" value="algorithm.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,12 +231,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShortestSubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.search_and_sort.ShortestSubSequence" />
+    <configuration name="ReverseSentenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.strings.ReverseSentenceDemo" />
       <module name="DailyPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.search_and_sort.*" />
+          <option name="PATTERN" value="algorithm.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,12 +244,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortThreeColorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.search_and_sort.SortThreeColorDemo" />
+    <configuration name="TranslationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.strings.TranslationDemo" />
       <module name="DailyPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.search_and_sort.*" />
+          <option name="PATTERN" value="algorithm.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,11 +259,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxGapDemo" />
-        <item itemvalue="Application.ShortestSubSequence" />
-        <item itemvalue="Application.MetricSortDemo" />
-        <item itemvalue="Application.SortThreeColorDemo" />
-        <item itemvalue="Application.MergeABDemo" />
+        <item itemvalue="Application.LongestSubStringDemo" />
+        <item itemvalue="Application.ChkParenthesisDemo" />
+        <item itemvalue="Application.ReplaceBlank" />
+        <item itemvalue="Application.TranslationDemo" />
+        <item itemvalue="Application.ReverseSentenceDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -285,18 +286,21 @@
       <workItem from="1558750064693" duration="7439000" />
       <workItem from="1559025421191" duration="9799000" />
       <workItem from="1559285564167" duration="17512000" />
-      <workItem from="1559351654395" duration="7033000" />
+      <workItem from="1559351654395" duration="16014000" />
+      <workItem from="1559562619011" duration="3836000" />
+      <workItem from="1559713879533" duration="12461000" />
+      <workItem from="1559781786586" duration="14178000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68394000" />
+    <option name="totallyTimeSpent" value="107850000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1422" height="1447" extended-state="0" />
+    <frame x="-7" y="0" width="1571" height="1447" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16886932" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1581734" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -305,17 +309,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19421172" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2526636" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1926885" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.25209445" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32901752" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32952815" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32901752" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -344,6 +348,12 @@
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/strings/LongestSubStringDemo.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -361,9 +371,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/PowerDemo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/tree/SubTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/OthersPassDemo.java">
@@ -532,6 +539,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/strings/ChkRotationDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/search_and_sort/MetricSortDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
@@ -542,14 +556,83 @@
     <entry file="file://$PROJECT_DIR$/src/algorithm/search_and_sort/ShortestSubSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
-          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/search_and_sort/MaxGapDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        <state relative-caret-position="1224">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/strings/ChkIndenticalDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="69" column="35" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/strings/ChkTransFormDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="43" column="43" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/strings/ReverseSentenceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="36" column="5" selection-start-line="30" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/strings/TranslationDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/strings/FindSmallestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/strings/ChkParenthesisDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/strings/ReplaceBlank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/tree/SubTreeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/strings/LongestSubStringDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
