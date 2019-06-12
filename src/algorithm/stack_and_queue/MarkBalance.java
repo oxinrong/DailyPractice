@@ -7,21 +7,21 @@ public class MarkBalance {
     public static void main(String[] args) {
         Mark mark = new Mark();
         String strR = "((()[s]()))";
-        for (int i = 0; i < strR.length(); i++) {
-            if (Pattern.matches("[a-z]", strR.charAt(i) + "")) {
-                continue;
-            }
-            if (strR.charAt(i) == '(' || strR.charAt(i) == '{'
-                    || strR.charAt(i) == '[' ) {
-                mark.push(strR.charAt(i));
-            } else if ( mark.isMatch(strR.charAt(i)) ) {
-                mark.pop();
-            } else {
-                System.out.println("error: can't match!!");
-                break;
-            }
-            System.out.println(mark.toString());
+    for (int i = 0; i < strR.length(); i++) {
+        if (Pattern.matches("[a-z]", strR.charAt(i) + "")) {
+            continue;
         }
+        if (strR.charAt(i) == '(' || strR.charAt(i) == '{'
+                || strR.charAt(i) == '[' ) {
+            mark.push(strR.charAt(i));
+        } else if ( mark.isMatch(strR.charAt(i)) ) {
+            mark.pop();
+        } else {
+            System.out.println("error: can't match!!");
+            break;
+        }
+        System.out.println(mark.toString());
+    }
     }
 }
 

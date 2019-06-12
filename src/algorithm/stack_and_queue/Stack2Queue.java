@@ -3,33 +3,58 @@ package algorithm.stack_and_queue;
 import java.util.Stack;
 
 /*
-用两个栈来实现一个队列，完成队列的 Push 和 Pop 操作。 队列中的元素为 int 类型。
- */
+    编写一个类，只能用两个栈结构实现队列，支持队列的基本操作 (push，pop)。
+
+    给定一个操作序列 ope 及它的长度 n，其中元素为正数代表 push 操作，为 0 代表 pop 操作，
+    保证操作序列合法且一定含 pop 操作，请返回 pop 的结果序列。
+
+    测试样例：
+        [1,2,3,0,4,0],6
+        返回：[1,2]
+    */
 
 public class Stack2Queue {
-    Stack<Integer> stack1 = new Stack<Integer>();
-    Stack<Integer> stack2 = new Stack<Integer>();
+    Stack<Integer> stackPush = new Stack<>();
+    Stack<Integer> stackPop = new Stack<>();
 
     public void push(int node) {
-        if (stack2.isEmpty()) {
-            stack2.push(node);
+        if (stackPop.isEmpty()) {
+            stackPop.push(node);
         } else {
-            while (!stack2.isEmpty()) {
-                int tmp = stack2.pop();
-                stack1.push(tmp);
+            while (!stackPop.isEmpty()) {
+                int tmp = stackPop.pop();
+                stackPush.push(tmp);
             }
 
-            stack2.push(node);
-            while (!stack1.isEmpty()) {
-                int tmp = stack1.pop();
-                stack2.push(tmp);
+            stackPop.push(node);
+            while (!stackPush.isEmpty()) {
+                int tmp = stackPush.pop();
+                stackPop.push(tmp);
             }
         }
     }
 
     public int pop() {
-        if (stack2 != null)
-            return stack2.pop();
+        if (stackPop != null)
+            return stackPop.pop();
         else return -1;
+    }
+
+    public int[] twoStack(int[] ope, int n) {
+        int count = 0;
+        for(int i = 0; i < n; i++) {
+            if (ope[i] == 0)
+                count++;
+        }
+
+        int[] res = new int[count];
+        int j = 0;
+        for(int i = 0; i < n; i++) {
+            if (ope[i] > 0) {
+                push(ope[i]);
+            } else res[j++] = pop();
+        }
+
+        return res;
     }
 }
