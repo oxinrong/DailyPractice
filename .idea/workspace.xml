@@ -2,19 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c55de79-6975-4857-8b37-1ebf6d3475b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/linked_list/ReversePartDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/stack_and_queue/MaxTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/stack_and_queue/ReverseStackDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/stack_and_queue/SlideWindowDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/stack_and_queue/TwoStacksSortDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/linked_list/ChkIntersectDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/linked_list/ChkIntersectWholeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/linked_list/ChkIntersectWithLoopDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/linked_list/ChkLoopDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/linked_list/ClearValueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/linked_list/CommonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/linked_list/DivideDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/linked_list/InsertValueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/linked_list/KInverseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/linked_list/PalindromeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/linked_list/RandomListNodeCloneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/linked_list/RemoveDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyPractice/algorithm/stack_and_queue/GetMinDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyPractice/algorithm/stack_and_queue/GetMinDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyPractice/algorithm/stack_and_queue/MyStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyPractice/algorithm/stack_and_queue/Stack2Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyPractice/algorithm/stack_and_queue/Stack2Queue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DailyPractice/algorithm/strings/LongestSubStringDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyPractice/algorithm/strings/LongestSubStringDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/stack_and_queue/GetMinDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/stack_and_queue/GetMinDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/stack_and_queue/MarkBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/stack_and_queue/MarkBalance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/stack_and_queue/Stack2Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/stack_and_queue/Stack2Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DailyPractice/algorithm/stack_and_queue/MaxTreeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DailyPractice/algorithm/stack_and_queue/MaxTreeDemo.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,53 +29,83 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/ChkLoopDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/InsertValueDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="768">
+              <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/RemoveDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/stack_and_queue/MaxTreeDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/ChkIntersectDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+            <state relative-caret-position="1200">
+              <caret line="71" column="27" lean-forward="true" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/stack_and_queue/GetMinDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/ClearValueDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-              <folding>
-                <element signature="e#666#667#0" expanded="true" />
-                <element signature="e#705#706#0" expanded="true" />
-                <element signature="e#729#730#0" expanded="true" />
-                <element signature="e#767#768#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="889">
+              <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/stack_and_queue/Stack2Queue.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/PalindromeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="744">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="1143">
+              <caret line="126" column="5" lean-forward="true" selection-start-line="30" selection-end-line="126" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/stack_and_queue/ReverseStackDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/RandomListNodeCloneDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="841">
+              <caret line="71" column="26" lean-forward="true" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/stack_and_queue/TwoStacksSortDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/DivideDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="903">
-              <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+            <state relative-caret-position="-312">
+              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/CommonDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="721">
+              <caret line="46" column="35" lean-forward="true" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,10 +114,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/stack_and_queue/SlideWindowDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/KInverseDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+            <state relative-caret-position="72">
+              <caret line="3" selection-start-line="3" selection-end-line="9" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -144,6 +175,20 @@
         <option value="$PROJECT_DIR$/src/algorithm/stack_and_queue/TwoStacksSortDemo.java" />
         <option value="$PROJECT_DIR$/src/algorithm/stack_and_queue/SlideWindowDemo.java" />
         <option value="$PROJECT_DIR$/src/algorithm/stack_and_queue/MaxTreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/linked_list/RemoveDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/linked_list/CommonDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/linked_list/PracticeDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/linked_list/KInverseDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/linked_list/ClearValueDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/linked_list/RandomListNode.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/linked_list/RandomListNodeCloneDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/linked_list/PalindromeDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/linked_list/ChkLoopDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/linked_list/ChkIntersectDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/linked_list/ChkIntersectWithLoopDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/linked_list/ChkIntersectWholeDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/linked_list/DivideDemo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/linked_list/InsertValueDemo.java" />
       </list>
     </option>
   </component>
@@ -200,7 +245,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="linked_list" type="462c0819:PsiDirectoryNode" />
-              <item name="ReverseListDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="RandomListNodeCloneDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="DailyPractice" type="b2602c69:ProjectViewProjectNode" />
@@ -264,22 +309,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxTreeDemo">
-    <configuration name="MaxTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.stack_and_queue.MaxTreeDemo" />
-      <module name="DailyPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.stack_and_queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReversePartDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.linked_list.ReversePartDemo" />
+  <component name="RunManager" selected="Application.ChkIntersectDemo">
+    <configuration name="ChkIntersectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.linked_list.ChkIntersectDemo" />
       <module name="DailyPractice" />
       <extension name="coverage">
         <pattern>
@@ -291,12 +323,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseStackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.stack_and_queue.ReverseStackDemo" />
+    <configuration name="ChkLoopDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.linked_list.ChkLoopDemo" />
       <module name="DailyPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.stack_and_queue.*" />
+          <option name="PATTERN" value="algorithm.linked_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -304,12 +336,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SlideWindowDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.stack_and_queue.SlideWindowDemo" />
+    <configuration name="ClearValueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.linked_list.ClearValueDemo" />
       <module name="DailyPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.stack_and_queue.*" />
+          <option name="PATTERN" value="algorithm.linked_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,12 +349,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoStacksSortDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.stack_and_queue.TwoStacksSortDemo" />
+    <configuration name="PalindromeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.linked_list.PalindromeDemo" />
       <module name="DailyPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.stack_and_queue.*" />
+          <option name="PATTERN" value="algorithm.linked_list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomListNodeCloneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.linked_list.RandomListNodeCloneDemo" />
+      <module name="DailyPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.linked_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,11 +377,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxTreeDemo" />
-        <item itemvalue="Application.SlideWindowDemo" />
-        <item itemvalue="Application.TwoStacksSortDemo" />
-        <item itemvalue="Application.ReverseStackDemo" />
-        <item itemvalue="Application.ReversePartDemo" />
+        <item itemvalue="Application.ChkIntersectDemo" />
+        <item itemvalue="Application.ChkLoopDemo" />
+        <item itemvalue="Application.RandomListNodeCloneDemo" />
+        <item itemvalue="Application.PalindromeDemo" />
+        <item itemvalue="Application.ClearValueDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +410,16 @@
       <workItem from="1559781786586" duration="14274000" />
       <workItem from="1560128400506" duration="20191000" />
       <workItem from="1560214477292" duration="18209000" />
-      <workItem from="1560323246703" duration="7626000" />
+      <workItem from="1560323246703" duration="9001000" />
+      <workItem from="1560496376588" duration="6264000" />
+      <workItem from="1560559558809" duration="592000" />
+      <workItem from="1560583806940" duration="6543000" />
+      <workItem from="1560840316656" duration="15928000" />
+      <workItem from="1560924794048" duration="12984000" />
+      <workItem from="1561015962927" duration="11488000" />
+      <workItem from="1561099169163" duration="2981000" />
+      <workItem from="1561340713778" duration="4330000" />
+      <workItem from="1561447062993" duration="2956000" />
     </task>
     <task id="LOCAL-00001" summary="字符串学完">
       <created>1559813593578</created>
@@ -378,13 +432,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153972000" />
+    <option name="totallyTimeSpent" value="219413000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1263" height="1447" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21030757" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24023275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -393,8 +447,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.18381241" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.25037822" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18354912" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2498096" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -439,63 +493,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/recursion_and_loop/RectCoverDemo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/stack_and_queue/IsPopOrder.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/PowerDemo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/OthersPassDemo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/tree/PrintTree.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/arrays/ReOrderArrayDemo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jvm/JavaVMStackSOF.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_base/concurrency/SingleThreadExecutor.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_base/gui/InterruptableLongRunningTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_base/gui/Progress.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_base/concurrency/Pool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_base/gui/Menus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_base/concurrency/DaemonThreadFactory.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_base/gui/ButtonGroups.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_base/gui/jnlp/JnlpFileChooser.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -683,13 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/ReverseListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1488">
-          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/ReversePartDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
@@ -714,10 +704,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/stack_and_queue/MaxTreeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/stack_and_queue/GetMinDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="696">
-          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
           <folding>
             <element signature="e#666#667#0" expanded="true" />
             <element signature="e#705#706#0" expanded="true" />
@@ -729,39 +726,134 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/stack_and_queue/Stack2Queue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        <state relative-caret-position="960">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/stack_and_queue/ReverseStackDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/stack_and_queue/SlideWindowDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        <state relative-caret-position="1032">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/stack_and_queue/TwoStacksSortDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="903">
-          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+        <state relative-caret-position="1176">
+          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/stack_and_queue/MaxTreeDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/stack_and_queue/SlideWindowDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+        <state relative-caret-position="648">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/GetLinkedNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/ReverseListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1175">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/PracticeDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/ChkIntersectWholeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="76" column="30" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/ChkIntersectWithLoopDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/InsertValueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/DivideDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-312">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/CommonDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="46" column="35" lean-forward="true" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/KInverseDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" selection-start-line="3" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/RemoveDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/ClearValueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="889">
+          <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/PalindromeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1143">
+          <caret line="126" column="5" lean-forward="true" selection-start-line="30" selection-end-line="126" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/RandomListNodeCloneDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="71" column="26" lean-forward="true" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/ChkLoopDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/linked_list/ChkIntersectDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="71" column="27" lean-forward="true" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="27" />
         </state>
       </provider>
     </entry>
